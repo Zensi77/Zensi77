@@ -15,26 +15,24 @@
     <img src="https://www.vectorlogo.zone/logos/typescriptlang/typescriptlang-icon.svg" alt="TypeScript" width="40" height="40" />
   </p>
   
-  <h4>Backend:</h4>
-  <p>
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="Python" width="40" height="40" />
-    <img src="https://www.vectorlogo.zone/logos/nodejs/nodejs-horizontal.svg" alt="Nodejs" width="100" height="40" />
-    <img src="https://raw.githubusercontent.com/gilbarbara/logos/main/logos/spring.svg" alt="Spring" width="100" height="40" />
-    <img src="https://icon.icepanel.io/Technology/svg/FastAPI.svg" alt="FastAPI" width="40" height="40" />
-    <img src="https://www.vectorlogo.zone/logos/python/python-horizontal.svg" alt="Python" width="80" height="40" />
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="Java" width="40" height="40" />
-    <img src="https://www.vectorlogo.zone/logos/mysql/mysql-ar21.svg" alt="Mysql" width="80" height="40" />
-    <img src="https://www.vectorlogo.zone/logos/mongodb/mongodb-icon.svg" alt="Mongo" width="40" height="40" />
-  </p>
-  
-  <h4>Herramientas:</h4>
-  <p>
-    <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="Git" width="40" height="40" />
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="Docker" width="40" height="40" />
-    <img src="https://www.svgrepo.com/show/448233/kubernetes.svg" alt="K8S" width="40" height="40" />
-    <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="Postman" width="40" height="40" />
-    
-  </p>
+<h4>Backend:</h4>
+<div style="display: flex; flex-wrap: wrap; gap: 12px; align-items: center;">
+  <img src="https://www.vectorlogo.zone/logos/nodejs/nodejs-horizontal.svg" alt="Nodejs" width="100" height="40" />
+  <img src="https://raw.githubusercontent.com/gilbarbara/logos/main/logos/spring.svg" alt="Spring" width="100" height="40" />
+  <img src="https://icon.icepanel.io/Technology/svg/FastAPI.svg" alt="FastAPI" width="40" height="40" />
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="Python" width="40" height="40" />
+  <img src="https://www.vectorlogo.zone/logos/mysql/mysql-ar21.svg" alt="Mysql" width="80" height="40" />
+  <img src="https://www.vectorlogo.zone/logos/mongodb/mongodb-icon.svg" alt="Mongo" width="40" height="40" />
+</div>
+
+<h4>Herramientas:</h4>
+<div style="display: flex; flex-wrap: wrap; gap: 12px; align-items: center;">
+  <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="Git" width="40" height="40" />
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="Docker" width="40" height="40" />
+  <img src="https://www.svgrepo.com/show/448233/kubernetes.svg" alt="K8S" width="40" height="40" />
+  <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="Postman" width="40" height="40" />
+</div>
+
 </div>
 
 # 📊 GitHub Stats:
