@@ -1,49 +1,44 @@
-# 💫 About Me:
-¡Hola! 👋 Soy Juanma, un apasionado estudiante de 2º de Desarrollo de Aplicaciones Web (DAW). 🚀<br>Desde que comencé mi formación, he tenido un objetivo claro: convertirme en un desarrollador web altamente competente y aprovechar cada oportunidad para aprender y mejorar. Estoy constantemente buscando nuevos retos y proyectos que me permitan exprimir todo mi potencial y seguir creciendo profesionalmente.<br><br>Con una base sólida en HTML, CSS, JavaScript y frameworks como Angular, estoy emocionado por explorar más tecnologías y poner mis habilidades en práctica. Ya sea colaborando en proyectos open-source o creando aplicaciones innovadoras, mi enfoque siempre está en escribir código limpio y eficiente.<br><br>Si buscas a alguien con ganas de aprender, entusiasmo y una fuerte ética de trabajo, ¡estoy listo para contribuir y seguir creciendo en el mundo del desarrollo web! 💻✨
+## 👋 ¡Hola! Soy Juanma — Full Stack Developer con visión en IA
 
 
-## 🌐 Socials:
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/juanma.e.r) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/juan-manuel-espinola-rodriguez) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/DevZensi) 
+Soy desarrollador web con enfoque full stack especializado en **Angular** y **Node.js/Spring Boot**, apasionado por crear soluciones robustas, escalables y con un diseño modular y eficiente.
 
-# 💻 Tech Stack:
-<h4>Frontend:</h4>
-  <p>
-    <img src="https://angular.io/assets/images/logos/angular/angular.svg" alt="Angular" width="40" height="40" />
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain.svg" alt="Bootstrap" width="40" height="40" />
-    <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="TailwindCSS" width="40" height="40" />
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="JavaScript" width="40" height="40" />
-    <img src="https://www.vectorlogo.zone/logos/typescriptlang/typescriptlang-icon.svg" alt="TypeScript" width="40" height="40" />
-  </p>
-  
-<h4>Backend:</h4>
-<div style="display: flex; flex-wrap: wrap; gap: 12px; align-items: center;">
-  <img src="https://www.vectorlogo.zone/logos/nodejs/nodejs-horizontal.svg" alt="Nodejs" width="100" height="40" />
-  <img src="https://raw.githubusercontent.com/gilbarbara/logos/main/logos/spring.svg" alt="Spring" width="100" height="40" />
-  <img src="https://icon.icepanel.io/Technology/svg/FastAPI.svg" alt="FastAPI" width="40" height="40" />
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="Python" width="40" height="40" />
-  <img src="https://www.vectorlogo.zone/logos/mysql/mysql-ar21.svg" alt="Mysql" width="80" height="40" />
-  <img src="https://www.vectorlogo.zone/logos/mongodb/mongodb-icon.svg" alt="Mongo" width="40" height="40" />
-</div>
+🎓 Formado en Ingeniería Química y Desarrollo de Aplicaciones Web (DAW), combino un perfil técnico y analítico con una orientación constante hacia el aprendizaje de nuevas tecnologías. Actualmente, me encuentro profundizando en **Inteligencia Artificial aplicada al desarrollo**.
 
-<h4>Herramientas:</h4>
-<div style="display: flex; flex-wrap: wrap; gap: 12px; align-items: center;">
-  <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="Git" width="40" height="40" />
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="Docker" width="40" height="40" />
-  <img src="https://www.svgrepo.com/show/448233/kubernetes.svg" alt="K8S" width="40" height="40" />
-  <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="Postman" width="40" height="40" />
-</div>
+🚀 Me motiva diseñar productos útiles para la comunidad dev y las pymes, especialmente aquellos que integran **automatización inteligente**, **arquitecturas distribuidas**, y **experiencia de usuario personalizada**.
 
-</div>
+🛠️ Tecnologías principales:
+- **Frontend:** Angular 16+ (SSR, PWA, RxJS, NgRx...), Tailwind, GSAP, Angular Material...
+- **Backend:** NestJS, FastAPI, Spring Boot PostgreSQL, MongoDB.
+- **DevOps:** Docker, Kubernetes, GitHub Actions
+- **IA y Automatización:** n8n, OpenAI, LangChain
 
-# 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=Zensi77&theme=dark&hide_border=false&include_all_commits=true&count_private=false)<br/>
-![](https://github-readme-streak-stats.herokuapp.com/?user=Zensi77&theme=dark&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=Zensi77&theme=dark&hide_border=false&include_all_commits=true&count_private=false&layout=compact)
+📚 En constante formación, orientado a la excelencia técnica y con la firme intención de aportar valor real mediante software inteligente, útil y accesible.
 
-### 🔝 Top Contributed Repo
-![](https://github-contributor-stats.vercel.app/api?username=Zensi77&limit=5&theme=dark&combine_all_yearly_contributions=true)
 
----
-[![](https://visitcount.itsvg.in/api?id=Zensi77&icon=0&color=0)](https://visitcount.itsvg.in)
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+## 🧠 Skills & Technologies
+
+### 🖼️ Frontend
+<img src="https://skillicons.dev/icons?i=html,css,angular,tailwind&perline=8" />
+
+### 🛠️ Backend
+<img src="https://skillicons.dev/icons?i=nodejs,express,nestjs,spring,fastapi,java&perline=8" />
+
+### 🗃️ Bases de Datos & Cache
+<img src="https://skillicons.dev/icons?i=mysql,postgres,mongodb,redis&perline=8" />
+
+### ⚙️ DevOps & Arquitectura
+<img src="https://skillicons.dev/icons?i=docker,kubernetes,rabbitmq&perline=8" />
+
+### 🧩 Control de Versiones
+<img src="https://skillicons.dev/icons?i=git,github&perline=8" />
+
+
+## Top Projects
+
+- [ecomerce-frontend](https://github.com/Zensi77/ecomerce-frontend) - Frontend application for an e-commerce platform | ⭐ 0 | Language: TypeScript | Forks: 0 | Open Issues: 0
+- [ecomerce-backend](https://github.com/Zensi77/ecomerce-backend) - Backend application for an e-commerce platform | ⭐ 0 | Language: Java | Forks: 0 | Open Issues: 0
+- [notion-basic-frontend](https://github.com/Zensi77/notion-basic-frontend) - CRUD task management frontend application | ⭐ 0 | Language: TypeScript | Forks: 0 | Open Issues: 0
+- [notion-clone-backend](https://github.com/Zensi77/notion-clone-backend) - CRUD task management backend application | ⭐ 0 | Language: Python | Forks: 0 | Open Issues: 0
+- [juanma.dev](https://github.com/Zensi77/juanma.dev) - My personal website showcasing my portfolio | ⭐ 0 | Language: Astro | Forks: 0 | Open Issues: 0
